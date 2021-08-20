@@ -9,7 +9,6 @@ public class PatternPrintFirstCharInName {
 		{
 			for (int j = 0; j <= i; j++)
 			{
-
 				char ch = s.charAt(j);
 				
 				System.out.print(ch + "  ");
@@ -17,20 +16,5 @@ public class PatternPrintFirstCharInName {
 				System.out.println();
 			}
 		}
-		
-		
-		
-		
-		
-		
-		
-		//I
-		
-		for(int i=l;i<l;i++) {
-			for (int j = 0; j < args.length; j++) {
-				
-			}
-		}
-			
 	}
 }

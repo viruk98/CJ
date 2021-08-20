@@ -11,7 +11,7 @@ public class PrimeFactor {
  
      public static void main(String args[])
     {
-    	 int n = 35;
+    	 int n = 100;
         System.out.println("The divisors of " +n+ " are: ");
         printDivisors(n);;
     }

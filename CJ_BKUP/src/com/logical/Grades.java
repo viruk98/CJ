@@ -17,15 +17,10 @@ public class Grades {
 		for (i = 0; i < count; i++) {
 			totalMarks += scanner.nextInt();
 		}
-		System.out.println("Total Mrks : " + totalMarks);
+		System.out.println("Total Marks : " + totalMarks);
 		
 		percentage = (totalMarks / (count));
 
-		//500/
-		//
-		//
-		//
-		
 		switch ((int) percentage / 10) {
 		case 10:System.out.println("Grade :A+");
 			break;
